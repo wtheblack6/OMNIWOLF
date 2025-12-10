@@ -1,0 +1,14 @@
+# OMNIWOLF v3.0 — Official requirements.txt
+# Built by Black Wolf (15) — 2025
+
+aiohttp>=3.8.0
+cryptography>=41.0.0
+qrcode[pil]>=7.4.2
+Pillow>=9.0.0
+websockets>=11.0.0
+
+# Optional: for public ngrok tunnels (highly recommended for demos)
+pyngrok>=7.0.0
+
+# Comment out the line below if you don't want ngrok
+# pyngrok>=7.0.0
